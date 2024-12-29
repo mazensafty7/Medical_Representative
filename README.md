@@ -2,7 +2,7 @@
 
 The **Medical Representative Prediction Project** leverages machine learning to predict the likelihood of doctors prescribing a specific medication, helping pharmaceutical companies optimize their outreach efforts and improve efficiency. By analyzing prescribing data and building advanced prediction models, this project empowers medical representatives to make data-driven decisions, reducing costs and enhancing impact.
 
-![download](https://github.com/user-attachments/assets/44ec2295-e960-4c62-b3ca-a18fa6239423)
+![1677177733090](https://github.com/user-attachments/assets/e0d75b99-5683-40ed-ac82-22d1d94d6165)
 
 ## Project Workflow
 
