@@ -1,6 +1,6 @@
 # Medical Representative Prediction Project
 
-The **Medical Representative Prediction Project** leverages machine learning to predict the likelihood of doctors prescribing a specific medication, helping pharmaceutical companies optimize their outreach efforts and improve efficiency. By analyzing prescribing data and building advanced prediction models, this project empowers medical representatives to make data-driven decisions, reducing costs and enhancing impact.
+The **Medical Representative Prediction Project** is my **graduation project** for the **Digital Egypt Pioneers Initiative (DEPI)** under the supervision of the **Egyptian Ministry of Communications and Information Technology**. This project leverages machine learning to predict the likelihood of doctors prescribing a specific medication, helping pharmaceutical companies optimize their outreach efforts and improve efficiency. By analyzing prescribing data and building advanced prediction models, this project empowers medical representatives to make data-driven decisions, reducing costs and enhancing impact.
 
 ![1677177733090](https://github.com/user-attachments/assets/e0d75b99-5683-40ed-ac82-22d1d94d6165)
 
